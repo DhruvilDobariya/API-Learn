@@ -1,8 +1,8 @@
 ﻿using System.Data;
 
-namespace DataTableLearn
+namespace ADO.Net
 {
-    public class DatatableProperties
+    public class DataTableProperties
     {
         public static void Main(string[] args)
         {
@@ -34,9 +34,9 @@ namespace DataTableLearn
             DataColumn[] primaryKeys = new DataColumn[1];
             primaryKeys[0] = userTable.Columns["Id"];
             userTable.PrimaryKey = primaryKeys;
-            
+
             userDataSet.Tables.Add(userTable);
-            
+
             Console.WriteLine(userTable.DataSet.DataSetName);
             Console.WriteLine(userTable.TableName);
             Console.WriteLine(userTable.PrimaryKey[0]);
