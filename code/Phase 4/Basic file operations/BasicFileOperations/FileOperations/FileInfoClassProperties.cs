@@ -1,4 +1,4 @@
-﻿namespace BasicFileOperations
+﻿namespace BasicFileOperations.FileOperations
 {
     public class FileInfoClassProperties
     {

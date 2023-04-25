@@ -13,3 +13,33 @@ D:\dotnet\API Learning\code\Basic file operations\BasicFileOperations\obj\Debug\
 D:\dotnet\API Learning\code\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.pdb
 D:\dotnet\API Learning\code\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.genruntimeconfig.cache
 D:\dotnet\API Learning\code\Basic file operations\BasicFileOperations\obj\Debug\net7.0\ref\BasicFileOperations.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\bin\Debug\net7.0\BasicFileOperations.exe
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\bin\Debug\net7.0\BasicFileOperations.deps.json
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\bin\Debug\net7.0\BasicFileOperations.runtimeconfig.json
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\bin\Debug\net7.0\BasicFileOperations.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\bin\Debug\net7.0\BasicFileOperations.pdb
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.csproj.AssemblyReference.cache
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.AssemblyInfoInputs.cache
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.AssemblyInfo.cs
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.csproj.CoreCompileInputs.cache
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\refint\BasicFileOperations.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.pdb
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.genruntimeconfig.cache
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\ref\BasicFileOperations.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\bin\Debug\net7.0\BasicFileOperations.exe
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\bin\Debug\net7.0\BasicFileOperations.deps.json
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\bin\Debug\net7.0\BasicFileOperations.runtimeconfig.json
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\bin\Debug\net7.0\BasicFileOperations.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\bin\Debug\net7.0\BasicFileOperations.pdb
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.csproj.AssemblyReference.cache
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.AssemblyInfoInputs.cache
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.AssemblyInfo.cs
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.csproj.CoreCompileInputs.cache
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\refint\BasicFileOperations.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.pdb
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\BasicFileOperations.genruntimeconfig.cache
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 4\Basic file operations\BasicFileOperations\obj\Debug\net7.0\ref\BasicFileOperations.dll

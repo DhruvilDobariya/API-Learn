@@ -1,4 +1,4 @@
-﻿namespace BasicFileOperations
+﻿namespace BasicFileOperations.BinaryReadWrite
 {
     public class BinaryWriterClass
     {

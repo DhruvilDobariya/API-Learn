@@ -1,4 +1,4 @@
-﻿namespace BasicFileOperations
+﻿namespace BasicFileOperations.DirectoryOperations
 {
     public class DirectoryInfoClassMethods
     {

@@ -35,3 +35,77 @@ D:\dotnet\API Learning\code\Start With Project\WebAPIBasics\obj\Debug\net7.0\ref
 D:\dotnet\API Learning\code\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.pdb
 D:\dotnet\API Learning\code\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.genruntimeconfig.cache
 D:\dotnet\API Learning\code\Start With Project\WebAPIBasics\obj\Debug\net7.0\ref\WebAPIBasics.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\appsettings.Development.json
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\appsettings.json
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\WebAPIBasics.exe
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\WebAPIBasics.deps.json
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\WebAPIBasics.runtimeconfig.json
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\WebAPIBasics.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\WebAPIBasics.pdb
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\System.Web.Http.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.csproj.AssemblyReference.cache
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.AssemblyInfoInputs.cache
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.AssemblyInfo.cs
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.csproj.CoreCompileInputs.cache
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.MvcApplicationPartsAssemblyInfo.cs
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.MvcApplicationPartsAssemblyInfo.cache
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\staticwebassets\msbuild.WebAPIBasics.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPIBasics.props
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIBasics.props
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPIBasics.props
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\staticwebassets.build.json
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\staticwebassets.development.json
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\scopedcss\bundle\WebAPIBasics.styles.css
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.csproj.CopyComplete
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\refint\WebAPIBasics.dll
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.pdb
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.genruntimeconfig.cache
+D:\Dhruvil Dobariya - 335\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\ref\WebAPIBasics.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\appsettings.json
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\WebAPIBasics.exe
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\WebAPIBasics.deps.json
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\WebAPIBasics.runtimeconfig.json
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\WebAPIBasics.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\WebAPIBasics.pdb
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.csproj.AssemblyReference.cache
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.AssemblyInfoInputs.cache
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.AssemblyInfo.cs
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.csproj.CoreCompileInputs.cache
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\staticwebassets\msbuild.WebAPIBasics.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPIBasics.props
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIBasics.props
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPIBasics.props
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\scopedcss\bundle\WebAPIBasics.styles.css
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.csproj.CopyComplete
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\refint\WebAPIBasics.dll
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.pdb
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\WebAPIBasics.genruntimeconfig.cache
+C:\Users\dhruvil.d\Learn\dotnet\API-Learn\code\Phase 5\Start With Project\WebAPIBasics\obj\Debug\net7.0\ref\WebAPIBasics.dll

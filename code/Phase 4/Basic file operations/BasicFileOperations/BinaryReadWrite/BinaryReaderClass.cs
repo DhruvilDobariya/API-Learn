@@ -1,4 +1,4 @@
-﻿namespace BasicFileOperations
+﻿namespace BasicFileOperations.BinaryReadWrite
 {
     public class BinaryReaderClass
     {
@@ -7,7 +7,7 @@
             BinaryReader binaryReader;
             try
             {
-                binaryReader = new BinaryReader(new FileStream("mydata", FileMode.Open));
+                binaryReader = new BinaryReader(new FileStream("mydata", FileMode.Open, FileAccess.Read));
             }
             catch (IOException e)
             {
@@ -17,7 +17,7 @@
 
             try
             {
-                Console.WriteLine($"Integer data: {binaryReader.ReadInt64()}");
+                Console.WriteLine($"Integer data: {binaryReader.ReadInt32()}");
                 Console.WriteLine($"Double data: {binaryReader.ReadDouble()}");
                 Console.WriteLine($"Boolean data: {binaryReader.ReadBoolean()}");
                 Console.WriteLine($"String data: {binaryReader.ReadString()}");

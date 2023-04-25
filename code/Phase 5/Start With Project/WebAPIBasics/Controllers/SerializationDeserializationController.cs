@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using System.Text;
+using System.Xml.Serialization;
 
 namespace WebAPIBasics.Controllers
 {
@@ -41,6 +43,7 @@ namespace WebAPIBasics.Controllers
         [HttpGet]
         public ActionResult<Customer> Deserializer()
         {
+            // here \ skip " in string
             string str = "{\"Id\":1,\"Name\":\"Dhruvil Dobariya\",\"_Balance\":10000.0}";
             return JsonConvert.DeserializeObject<Customer>(str);
         }

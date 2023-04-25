@@ -1,4 +1,4 @@
-﻿namespace BasicFileOperations
+﻿namespace BasicFileOperations.StreamOperations
 {
     public class StreamReaderClass
     {
