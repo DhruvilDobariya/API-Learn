@@ -5,7 +5,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BasicFileOperations.FileOperations.FileModeEnum</StartupObject>
+    <StartupObject>BasicFileOperations.FileOperations.FileSharedEnumLearn</StartupObject>
   </PropertyGroup>
 
 </Project>
